@@ -1,3 +1,3 @@
 # RConnect_win
-To install :
+How to install :
 move to C:\ folder RConnect
